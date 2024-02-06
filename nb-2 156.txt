@@ -1,0 +1,10 @@
+<html> 
+<head> 
+<title> WEB TECHNOLOGY</TITLE>
+</head>
+<body>
+<p> this is my first paragraph</p>
+<center> this is center text </center>
+<br> this is break text </br>
+</body>
+</html>
